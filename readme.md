@@ -24,7 +24,7 @@ O projeto é dividido em duas principais classes:
 ## Como Executar
 
 1. **Clone o Repositório:**
-git clone https://github.com/Mikallina/.git
+git clone https://github.com/Mikallina/DIO---Desenvolvimento-Java-com-IA
 
 2. **Abra o Projeto:**
 - Importe o projeto em um ambiente de desenvolvimento Java (Eclipse, IntelliJ, etc.).
